@@ -6,7 +6,7 @@ I'm **Seyha**, a design-minded software developer. I like building clean, modern
 
 ### These days I’m focused on:
 
-- Next, NextJs, Tailwind  
+- Next, Vue, Tailwind  
 - Spring boot
 - Small, thoughtful projects with polish
 
